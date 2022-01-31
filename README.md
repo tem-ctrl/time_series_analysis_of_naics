@@ -33,4 +33,6 @@ Each of these files has the following columns in the same order from left to rig
 
 On the other side there is an excel file **LMO_Detailed_Industries_by_NAICS.xlsx** that maps all the NAICS codes with the name of the corresponding industry.
 
+Read detailed description [here](https://www.datainsightonline.com/post/naics-data-analysis-a-review).
+
 #### Coming Next: Dashboard (with [Dash](https://dash.plotly.com/)) for visualisations...
