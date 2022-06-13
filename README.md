@@ -35,4 +35,4 @@ On the other side there is an excel file **LMO_Detailed_Industries_by_NAICS.xlsx
 
 Read detailed description [here](https://www.datainsightonline.com/post/naics-data-analysis-a-review).
 
-#### Coming Next: Dashboard (with [Dash](https://dash.plotly.com/)) for visualisations...
+<!--#### Coming Next: Dashboard (with [Dash](https://dash.plotly.com/)) for visualisations...-->
